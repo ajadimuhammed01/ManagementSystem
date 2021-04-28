@@ -1,0 +1,9 @@
+C:\Users\AJADI-PC\Documents\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\Users\AJADI-PC\Documents\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\Users\AJADI-PC\Documents\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\AJADI-PC\Documents\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb

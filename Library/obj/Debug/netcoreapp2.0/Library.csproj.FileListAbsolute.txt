@@ -1,0 +1,16 @@
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CopyComplete
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\AJADI-PC\Documents\Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\AJADI-PC\Documents\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.pdb
